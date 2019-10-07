@@ -11,7 +11,7 @@ var sortedSquares = function(A) {
   })
   A.sort((a,b) => a-b);
   return  A;
-
+ 
 //方法二:代码复杂，但算法复杂度更低，利用双指针的办法可以减少排序的次数
   A = A.sort((a,b) => a-b);
   let lp = 0;
