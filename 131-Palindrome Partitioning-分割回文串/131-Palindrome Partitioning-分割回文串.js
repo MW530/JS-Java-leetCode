@@ -41,6 +41,3 @@
      }
      return true
  }
-
-let r = partition("aab")
-console.log(r)
