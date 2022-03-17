@@ -2,6 +2,6 @@
 
 例如5和跳过的13，实际上与15相比，差距的正负号是不会改变的。
 
-![摆动序列示例](D:\LeetCode\JS-Java-LeetCode\376-Wiggle Subsequence-摆动序列\摆动序列示例.png)
+![摆动序列示例](\376-Wiggle Subsequence-摆动序列\摆动序列示例.png)
 
 （图片来自[代码随想录](https://www.programmercarl.com/0376.%E6%91%86%E5%8A%A8%E5%BA%8F%E5%88%97.html#%E6%80%9D%E8%B7%AF1-%E8%B4%AA%E5%BF%83%E8%A7%A3%E6%B3%95))
